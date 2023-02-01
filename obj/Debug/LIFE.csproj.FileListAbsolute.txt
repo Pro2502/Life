@@ -1,0 +1,10 @@
+D:\Работа на С#\LIFE\bin\Debug\LIFE.exe.config
+D:\Работа на С#\LIFE\bin\Debug\LIFE.exe
+D:\Работа на С#\LIFE\bin\Debug\LIFE.pdb
+D:\Работа на С#\LIFE\obj\Debug\LIFE.csproj.AssemblyReference.cache
+D:\Работа на С#\LIFE\obj\Debug\LIFE.Properties.Resources.resources
+D:\Работа на С#\LIFE\obj\Debug\LIFE.csproj.GenerateResource.cache
+D:\Работа на С#\LIFE\obj\Debug\LIFE.csproj.CoreCompileInputs.cache
+D:\Работа на С#\LIFE\obj\Debug\LIFE.exe
+D:\Работа на С#\LIFE\obj\Debug\LIFE.pdb
+D:\Работа на С#\LIFE\obj\Debug\LIFE.Form1.resources
